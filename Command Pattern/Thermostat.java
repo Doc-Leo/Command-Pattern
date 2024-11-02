@@ -2,7 +2,7 @@ public class Thermostat {
     private int temperature;
 
     public Thermostat() {
-        this.temperature = 22;  // Default temperature
+        this.temperature = 22;  
     }
 
     public void increaseTemperature() {
